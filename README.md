@@ -8,7 +8,9 @@ With a deep understanding of statistical analysis, data visualization, machine l
 
 I am passionate about solving complex problems that can positively impact society. As a data science and machine learning enthusiast, I am excited to bring my academic expertise to the industry. Whether it's analyzing astrophysical data to understand the mysteries of the universe, predicting natural disasters, or developing autonomous systems for the transportation industry, I'm excited to tackle complex problems and positively impact society through data science. I have worked as a Research Assistant and Data Analyst in the fields of Physics and Astronomy, as well as a Data Scientist in the sports industry (Vancouver Whitecaps Football Club). 
 
-<p><a href="[https://www.linkedin.com/in/mnabizadeh/](https://www.linkedin.com/in/robinpreet-dhillon/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" />
+<p>
+  <a href="https://linkedin.com/in/robinpreet-dhillon/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I know
 ### 🗣️ Languages
