@@ -3,7 +3,7 @@ My name is Robin and I'm a Data Scientist based in Vancouver, Canada.
 
 ## About me
 With a deep understanding of statistical analysis, data visualization, machine learning, and more, I have honed my skills to become an ambitious data scientist. I am committed to using my skills and expertise to create innovative solutions that can make a difference in the world. I have a diverse background:
-- Master of Science in Data Science from the University of British Columbia.
+- Master of Data Science (MDS) from the University of British Columbia.
 - BSc. in Astrophysics from the University of British Columbia.
 
 I am passionate about solving complex problems that can positively impact society. As a data science and machine learning enthusiast, I am excited to bring my academic expertise to the industry. Whether it's analyzing astrophysical data to understand the mysteries of the universe, predicting natural disasters, or developing autonomous systems for the transportation industry, I'm excited to tackle complex problems and positively impact society through data science. I have worked as a Research Assistant and Data Analyst in the fields of Physics and Astronomy, as well as a Data Scientist in the sports industry (Vancouver Whitecaps Football Club). 
